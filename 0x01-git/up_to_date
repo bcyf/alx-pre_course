@@ -1,1 +1,3 @@
 git push origin master --force
+git add up_to_date
+git pull
